@@ -1,0 +1,5 @@
+poi_all = filetxt[1]
+poi_1 = poi_all.split("§")[0]
+poi_2 = poi_all.split("§")[1]
+poi_3 = poi_all.split("§")[2]
+poi_4 = poi_all.split("§")[3]
